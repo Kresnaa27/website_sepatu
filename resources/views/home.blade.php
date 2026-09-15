@@ -8,7 +8,7 @@
             <div class="hero-content">
                 <span style="color: var(--tridatu-red); font-weight: 800; font-size: 11px; letter-spacing: 2px;">TRIDATU
                     EDITION</span>
-                <h1>WALK BEYOND <br><span>LIMITS</span></h1>
+                <h1>WALK <br> BEYOND <br><span>LIMITS</span></h1>
                 <p>Explore our premium Tridatu collection for unyielding steps, crafted with soul from the Island of Gods.
                 </p>
                 <div class="hero-buttons">

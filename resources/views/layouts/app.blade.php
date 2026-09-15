@@ -57,7 +57,6 @@
                         <li><a href="#">Women</a></li>
                         <li><a href="#">Kids</a></li>
                         <li><a href="#">New Arrivals</a></li>
-                        <li><a href="#">Sale</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
