@@ -27,13 +27,13 @@
 
         <!-- Partners / Brands Bar -->
         <div class="partners-bar">
-            <span style="font-weight: 900; letter-spacing: 1px;">NIKE</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">ADIDAS</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">PUMA</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">NEW BALANCE</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">CONVERSE</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">VANS</span>
-            <span style="font-weight: 900; letter-spacing: 1px;">REEBOK</span>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">NIKE</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">ADIDAS</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">PUMA</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">NEW BALANCE</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">CONVERSE</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">VANS</a></li>
+            <li><a href="#" style="font-weight: 900; letter-spacing: 1px;">REEBOK</a></li>
         </div>
 
         <!-- Featured Products Title -->

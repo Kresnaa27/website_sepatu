@@ -16,10 +16,11 @@
         <div class="container nav-container">
             <a href="#" class="logo">DEWATA SHOES</a>
             <ul class="nav-menu">
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">COLLECTIONS</a></li>
-                <li><a href="#" class="active">TRIDATU SERIES</a></li>
-                <li><a href="#">ABOUT US</a></li>
+                <li><a href="#">MAN</a></li>
+                <li><a href="#">WOMAN</a></li>
+                <li><a href="#">KIDS</a></li>
+                <li><a href="#">BRAND</a></li>
+                <li><a href="#">CATEGORY</a></li>
                 <li><a href="#">CONTACT</a></li>
             </ul>
             <div class="nav-actions">
